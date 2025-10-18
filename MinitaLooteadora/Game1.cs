@@ -49,4 +49,8 @@ namespace MinitaLooteadora
             base.Draw(gameTime);
         }
     }
+
+    public static class Program
+    {
+    }
 }
