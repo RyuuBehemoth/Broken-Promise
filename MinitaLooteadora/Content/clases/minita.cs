@@ -8,5 +8,6 @@ namespace MinitaLooteadora.Content.clases
 {
     internal class minita
     {
+        
     }
 }
