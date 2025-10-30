@@ -13,3 +13,12 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin Maps/Campito.tmx
+/copy:Maps/Campito.tmx
+
+#begin Maps/TocarPasto.png
+/copy:Maps/TocarPasto.png
+
+#begin Maps/TocarPasto.tsx
+/copy:Maps/TocarPasto.tsx
+
